@@ -2,12 +2,12 @@
 <h3 align="center">A Highly Skilled DevOps & Cloud Engineer with a Strong Background in Automation, CI/CD, and Cloud Infrastructure</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=chandan-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="chandan-kumar" />
+  <img src="https://komarev.com/ghpvc/?username=chandan-cloudops&label=Profile%20views&color=0e75b6&style=flat" alt="chandan-kumar" />
 </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chandan-kumar" alt="chandan-kumar" />
+    <img src="https://github-profile-trophy.vercel.app/?username=chandan-cloudops" alt="chandan-kumar" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/chandan-kumar" target="_blank">
+  <a href="https://www.linkedin.com/in/chandan-kumar-0769ab21b/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandan-kumar" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/chandan.devops/" target="_blank">
@@ -62,8 +62,8 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan-kumar&show_icons=true&locale=en&layout=compact" alt="chandan-kumar" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandan-kumar&show_icons=true&locale=en" alt="chandan-kumar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan-cloudops&show_icons=true&locale=en&layout=compact" alt="chandan-kumar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandan-cloudops&show_icons=true&locale=en" alt="chandan-kumar" /></p>
 
 <h3 align="left">Current Focus & Learning:</h3>
 - Mastering **Security Best Practices** in DevOps (DevSecOps)

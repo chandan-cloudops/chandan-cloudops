@@ -52,9 +52,9 @@
   <a href="https://twitter.com/chandan_kumar" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" height="40" width="40" />
   </a>
-  <a href="https://www.instagram.com/chandan.devops/" target="_blank">
+<!--   <a href="https://www.instagram.com/chandan.devops/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="instagram" height="40" width="40" />
-  </a>
+  </a> -->
 </p>
 
 ---
